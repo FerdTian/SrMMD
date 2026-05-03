@@ -30,4 +30,4 @@ bash scripts/student_teacher.sh
 bash scripts/color_transfer.sh
 
 # Sampling experiment
-bash scripts/sampling_mog.sh
+bash scripts/sampling.sh
