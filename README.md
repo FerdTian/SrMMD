@@ -29,5 +29,9 @@ bash scripts/student_teacher.sh
 # Color transfer
 bash scripts/color_transfer.sh
 
-# Sampling experiment
+# Sampling from Mixture of Gaussians
 bash scripts/sampling.sh
+
+# Bayesian Logistic Regression
+bash scripts/blr.sh
+```
