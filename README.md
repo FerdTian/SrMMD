@@ -1,7 +1,5 @@
 # SrMMD Reproduction Code
 
-This anonymized repository contains the runnable code extracted from the uploaded archive for the paper's main experiments.
-
 ## Repository layout
 
 ```text
